@@ -22,6 +22,5 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/fhsoares08/fhsoares08/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/Victor-Munhoz/Victor-Munhoz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
