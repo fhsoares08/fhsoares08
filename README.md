@@ -1,7 +1,4 @@
-## Olá! Eu sou o Fábio H. Soares
-
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+## Olá! Eu sou o Fábio Henrique
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhsoares08&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsoares08&layout=compact&card_width=320&theme=transparent)](https://github.com/fhsoares08/github-readme-stats)
