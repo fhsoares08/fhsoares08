@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/fhsoares08/fhsoares08/raw/output/"/>
+  <img src="https://github.com/fhsoares08/fhsoares08/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
